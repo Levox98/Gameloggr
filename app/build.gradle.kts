@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.levox.gameloggr"
+    namespace = "com.gameloggr"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.levox.gameloggr"
+        applicationId = "com.gameloggr"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

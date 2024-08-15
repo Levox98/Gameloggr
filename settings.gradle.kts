@@ -21,4 +21,12 @@ dependencyResolutionManagement {
 
 rootProject.name = "Gameloggr"
 include(":app")
- 
+
+include(":data")
+include(":domain")
+include(":navigation")
+include(":network")
+
+include(":feature-profile")
+include(":feature-login")
+include(":feature-collections")
